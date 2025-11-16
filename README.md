@@ -1,3 +1,4 @@
+![Banner](banner1.jpg)
 # 👋 Hello, I'm Rebecca Oghenedoro  
 
 🛡️ **Cybersecurity Analyst | SOC Analyst | Threat Intelligence Enthusiast**  
